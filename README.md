@@ -1,7 +1,7 @@
 # summertask2020
 
 Monday Morning - App Team Summer Task 2020
-[Link To .apk File](https://github.com/rutajdash/MondayMorning_SummerTask2020/tree/master//build/app/outputs/apk)
+[Link To .apk File](https://github.com/rutajdash/MondayMorning_SummerTask2020/blob/master/app.apk)
 
 ## Screenshot 1
 
